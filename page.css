@@ -247,8 +247,4 @@ li {
 	.footer-col {
 		text-align: center;
 	}
-
-	.footer-list-item:first-child {
-		margin-left: 20px;
-	}
 }

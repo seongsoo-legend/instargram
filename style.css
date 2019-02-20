@@ -152,6 +152,10 @@ li {
 	margin-bottom: 50px;
 }
 
+.footer-list {
+    padding: 0 20px;
+}
+
 .footer-list .footer-list-item:last-child {
 	display: block;
 	margin-top: 10px;
@@ -197,9 +201,5 @@ li {
 
 	.footer-col {
 		text-align: center;
-	}
-
-	.footer-list-item:first-child {
-		margin-left: 20px;
 	}
 }
